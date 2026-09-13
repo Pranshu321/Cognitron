@@ -90,7 +90,7 @@ Decoding visual information from neural signals is a key challenge in neuroscien
 
 * [Pranshu Jain](mailto:pranshujain0111@gmail.com)
 * Nilesh Mishra
-* Sooryakiran B
+* [Sooryakiran B](mailto:sooryakiranb369@gmail.com)
 * Mohsina Bilal
 
 ## License
